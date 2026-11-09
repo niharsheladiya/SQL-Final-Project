@@ -1179,19 +1179,14 @@ That is expected — the query uses `CURDATE()`, so the Senior / Junior result c
 
 <br/>
 
-### 📺 ▶️ **[CLICK HERE TO WATCH THE VIDEO DEMO](PASTE_YOUR_VIDEO_LINK_HERE)** ▶️ 📺
+### 📺 ▶️ **[CLICK HERE TO WATCH THE VIDEO DEMO](https://drive.google.com/file/d/1fhHd0I4pc8zBF7tuYrHkO8PzhhpPqCBO/view?usp=sharing)** ▶️ 📺
 
 <br/>
 
-> 🔗 **Video link:** `PASTE_YOUR_VIDEO_LINK_HERE`
->
-> *(Replace the text above with your YouTube / Google Drive / Loom link.)*
 
 <br/>
 
-<!-- OPTIONAL: clickable thumbnail. Replace both placeholders, then remove the comment markers.
-[![Watch the demo](PASTE_THUMBNAIL_IMAGE_LINK_HERE)](PASTE_YOUR_VIDEO_LINK_HERE)
--->
+
 
 </div>
 
